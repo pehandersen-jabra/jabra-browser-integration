@@ -2,6 +2,13 @@
 
 Here are listed changes for (1) Javascript API, (2) Browser extension and (3) native chromehost installation. 
 
+# 2.1 Version (API)
+
+2.2 Added/changed the following
+
+* Improved typing for add/RemoveEventListener callbacks (typescript).
+* Added analytics API.
+
 # 2.1 Version (browser extension)
 
 2.1 Fixed the following in the Browser extension:
